@@ -61,7 +61,7 @@ loop = True
 pause = False 
 
 
-baseDir = '/home/etri/DataSets/GasDetection/FLAB/20220922/'
+baseDir = './'
 # fileLists = [x for x in os.listdir(baseDir) if x.split('.')[-1].lower() == 'mp4']
 # print('Number of files: ', len(fileLists))
 
